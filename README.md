@@ -14,7 +14,6 @@
   <a href="#demonstration">Demonstration</a> •
   <a href="#update-your-profile">Update your profile</a> •
   <a href="#api-usage">API Usage</a> •
-  <a href="#deployment">Deployment</a> •
   <a href="#build-with">Build With</a> •
   <a href="#to-do">To-do</a> •
   <a href="#installation">Installation</a> • 
@@ -87,9 +86,7 @@ Get Top 5 Cheap Tours 👉 https://natours-xbsh.onrender.com/api/v1/tours/top-5-
 
 Get Tours Within Radius 👉 https://natours-xbsh.onrender.com/api/v1/tours/tours-within/200/center/34.098453,-118.096327/unit/mi
 
-## Deployment
 
-The website is deployed using git on render.com. Below are the steps taken:
 
 ```
 git init
